@@ -66,5 +66,14 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1423" height="517" alt="image" src="https://github.com/user-attachments/assets/de9b27e3-4557-4bb3-91ed-240d01c35ba9" />
+
 ## Output
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/2a0b714e-178c-4685-b3c0-22091265fde8" />
+at 2 ohm resistance:
+<img width="1600" height="741" alt="image" src="https://github.com/user-attachments/assets/b0af6ef9-717d-44e7-a154-5261e86c6741" />
+at firing angle to 90 degree:
+<img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/7442eb51-047b-42a9-a4c5-76eeb8e58f97" />
+
 ## Result
+Thus this experiment will be verified successfully.
